@@ -1,9 +1,7 @@
-Map<String, String> teamsRank = {
-  "": "Enter a rank value to see the team name",
-  "First": "Team Taco (29 points)",
-  "Second": "Team Pegasus Coders (25 points)",
-  "Third":
-      "Team 404_Skills_Not_Found (24 points) \n\n Team Dart Minds (24 points) \n\n Team Titans (24 points)",
-  "Fourth": "Team Flubber (23 points)",
-  "Fifth": "Team Flutter Crew (22 points)",
+Map<String, String> dataMap = {
+  "question":
+      "Dialogue: Look at me! I’m Chandler! Could I be wearing any more clothes?",
+  "hint": "It's from the episode: The One Where No One's is ready",
+  "answerImage1": "joey.jpg",
+  "answerImage2": "joey_chandler.jpg",
 };
